@@ -1,2 +1,1 @@
-🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
-Or if you wants to see the live demo then please🙏visit on (https://venerable-pegasus-e2ef82.netlify.app/)
+Demo: https://github.com/chillBirO/Emoji-Generator.git/ 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :) Or if you wants to see the output then please reach on https://venerable-pegasus-e2ef82.netlify.app
